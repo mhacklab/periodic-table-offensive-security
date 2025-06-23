@@ -107,7 +107,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Rt   | ROADtools          | https://github.com/dirkjanm/ROADtools | 
 | Mi   | Mimikatz           | https://github.com/gentilkiwi/mimikatz |
 | Pe   | PEASS-ng           | https://github.com/peass-ng/PEASS-ng |
-| Ke   | KeeThief           | https://github.com/GhostPack/KeeThief |
+| Tf   | ThievingFox        | https://github.com/Slowerzs/ThievingFox |
 | BL   | BloodHound         | https://www.kali.org/tools/bloodhound/ |
 | EM   | Empire             | https://github.com/EmpireProject/Empire |
 | PS   | PowerSploit        | https://github.com/PowerShellMafia/PowerSploit |
